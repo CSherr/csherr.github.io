@@ -14,7 +14,7 @@ redirect_from:
 1. 专业基础扎实，熟悉常用数据结构与算法，熟悉计算机网络相关理论以及相关应用；
 2. 熟练掌握Java语言，熟悉springboot微服务框架以及Redis, MyBatis等中间件以及mysql关系型数据库；
 3. 熟悉Python语言以及相关的人工智能模型训练，对于常用的深度学习框架如Pytorch，能熟练应用；
-4. 对于常见的机器学习与数据挖掘模型非常熟悉，能够进行独立复现，例如[Attractor, 一种网络社区聚类方法]("CSherr/Attractor-unoffical-code")
+4. 对于常见的机器学习与数据挖掘模型非常熟悉，能够进行独立复现，例如[Attractor, 一种网络社区聚类方法]("(https://github.com/CSherr/Attractor-unoffical-code)")
 
 特长爱好
 ======
